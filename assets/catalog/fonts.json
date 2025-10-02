@@ -1,0 +1,3120 @@
+{
+	"ttf_config" : 
+	[
+		{
+			"family" : "Agency FB",
+			"filename" : "AGENCYR.TTF",
+			"fullName" : "Agency FB",
+			"log" : null,
+			"postScript" : "AgencyFB-Reg",
+			"size" : 58920.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Agency FB",
+			"filename" : "AGENCYB.TTF",
+			"fullName" : "Agency FB Bold",
+			"log" : null,
+			"postScript" : "AgencyFB-Bold",
+			"size" : 60656.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Book Antiqua",
+			"filename" : "ANTQUAB.TTF",
+			"fullName" : "Book Antiqua Bold",
+			"log" : null,
+			"postScript" : "BookAntiqua-Bold",
+			"size" : 151000.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Algerian",
+			"filename" : "ALGER.TTF",
+			"fullName" : "Algerian",
+			"log" : null,
+			"postScript" : "Algerian",
+			"size" : 76588.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Book Antiqua",
+			"filename" : "ANTQUAI.TTF",
+			"fullName" : "Book Antiqua Italic",
+			"log" : null,
+			"postScript" : "BookAntiqua-Italic",
+			"size" : 149092.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Arial",
+			"filename" : "arial.ttf",
+			"fullName" : "Arial",
+			"log" : null,
+			"postScript" : "ArialMT",
+			"size" : 1036584.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Arial",
+			"filename" : "arialbd.ttf",
+			"fullName" : "Arial Bold",
+			"log" : null,
+			"postScript" : "Arial-BoldMT",
+			"size" : 980756.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Bahnschrift",
+			"filename" : "bahnschrift.ttf",
+			"fullName" : "Bahnschrift",
+			"log" : null,
+			"postScript" : "Bahnschrift",
+			"size" : 371380.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bauhaus 93",
+			"filename" : "BAUHS93.TTF",
+			"fullName" : "Bauhaus 93",
+			"log" : null,
+			"postScript" : "Bauhaus93",
+			"size" : 47644.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bell MT",
+			"filename" : "BELL.TTF",
+			"fullName" : "Bell MT",
+			"log" : null,
+			"postScript" : "BellMT",
+			"size" : 84840.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bell MT",
+			"filename" : "BELLB.TTF",
+			"fullName" : "Bell MT Bold",
+			"log" : null,
+			"postScript" : "BellMTBold",
+			"size" : 82580.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Bell MT",
+			"filename" : "BELLI.TTF",
+			"fullName" : "Bell MT Italic",
+			"log" : null,
+			"postScript" : "BellMTItalic",
+			"size" : 82192.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Bernard MT Condensed",
+			"filename" : "BERNHC.TTF",
+			"fullName" : "Bernard MT Condensed",
+			"log" : null,
+			"postScript" : "BernardMT-Condensed",
+			"size" : 70656.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bodoni MT",
+			"filename" : "BOD_B.TTF",
+			"fullName" : "Bodoni MT Bold",
+			"log" : null,
+			"postScript" : "BodoniMT-Bold",
+			"size" : 74440.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Arial",
+			"filename" : "ariali.ttf",
+			"fullName" : "Arial Italic",
+			"log" : null,
+			"postScript" : "Arial-ItalicMT",
+			"size" : 717428.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Bodoni MT",
+			"filename" : "BOD_BI.TTF",
+			"fullName" : "Bodoni MT Bold Italic",
+			"log" : null,
+			"postScript" : "BodoniMT-BoldItalic",
+			"size" : 85308.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Bodoni MT Black",
+			"filename" : "BOD_BLAI.TTF",
+			"fullName" : "Bodoni MT Black Italic",
+			"log" : null,
+			"postScript" : "BodoniMTBlack-Italic",
+			"size" : 83816.0,
+			"style" : "Black Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Bodoni MT Black",
+			"filename" : "BOD_BLAR.TTF",
+			"fullName" : "Bodoni MT Black",
+			"log" : null,
+			"postScript" : "BodoniMTBlack",
+			"size" : 73616.0,
+			"style" : "Black",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Arial Black",
+			"filename" : "ariblk.ttf",
+			"fullName" : "Arial Black",
+			"log" : null,
+			"postScript" : "Arial-Black",
+			"size" : 167592.0,
+			"style" : "Black",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bodoni MT Condensed",
+			"filename" : "BOD_CB.TTF",
+			"fullName" : "Bodoni MT Condensed Bold",
+			"log" : null,
+			"postScript" : "BodoniMTCondensed-Bold",
+			"size" : 74092.0,
+			"style" : "Condensed Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Bodoni MT Condensed",
+			"filename" : "BOD_CBI.TTF",
+			"fullName" : "Bodoni MT Condensed Bold Italic",
+			"log" : null,
+			"postScript" : "BodoniMTCondensed-BoldItalic",
+			"size" : 81072.0,
+			"style" : "Condensed Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Bodoni MT Condensed",
+			"filename" : "BOD_CI.TTF",
+			"fullName" : "Bodoni MT Condensed Italic",
+			"log" : null,
+			"postScript" : "BodoniMTCondensed-Italic",
+			"size" : 80536.0,
+			"style" : "Condensed Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Book Antiqua",
+			"filename" : "ANTQUABI.TTF",
+			"fullName" : "Book Antiqua Bold Italic",
+			"log" : null,
+			"postScript" : "BookAntiqua-BoldItalic",
+			"size" : 150416.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Bodoni MT Condensed",
+			"filename" : "BOD_CR.TTF",
+			"fullName" : "Bodoni MT Condensed",
+			"log" : null,
+			"postScript" : "BodoniMTCondensed",
+			"size" : 80580.0,
+			"style" : "Condensed",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bodoni MT",
+			"filename" : "BOD_I.TTF",
+			"fullName" : "Bodoni MT Italic",
+			"log" : null,
+			"postScript" : "BodoniMT-Italic",
+			"size" : 89940.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Arial",
+			"filename" : "arialbi.ttf",
+			"fullName" : "Arial Bold Italic",
+			"log" : null,
+			"postScript" : "Arial-BoldItalicMT",
+			"size" : 721144.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Bodoni MT Poster Compressed",
+			"filename" : "BOD_PSTC.TTF",
+			"fullName" : "Bodoni MT Poster Compressed",
+			"log" : null,
+			"postScript" : "BodoniMTPosterCompressed",
+			"size" : 91592.0,
+			"style" : "Poster Compressed",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bodoni MT",
+			"filename" : "BOD_R.TTF",
+			"fullName" : "Bodoni MT",
+			"log" : null,
+			"postScript" : "BodoniMT",
+			"size" : 77884.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bookman Old Style",
+			"filename" : "BOOKOS.TTF",
+			"fullName" : "Bookman Old Style",
+			"log" : null,
+			"postScript" : "BookmanOldStyle",
+			"size" : 160940.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bookman Old Style",
+			"filename" : "BOOKOSB.TTF",
+			"fullName" : "Bookman Old Style Bold",
+			"log" : null,
+			"postScript" : "BookmanOldStyle-Bold",
+			"size" : 154576.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Bookman Old Style",
+			"filename" : "BOOKOSBI.TTF",
+			"fullName" : "Bookman Old Style Bold Italic",
+			"log" : null,
+			"postScript" : "BookmanOldStyle-BoldItalic",
+			"size" : 162460.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Bookman Old Style",
+			"filename" : "BOOKOSI.TTF",
+			"fullName" : "Bookman Old Style Italic",
+			"log" : null,
+			"postScript" : "BookmanOldStyle-Italic",
+			"size" : 161020.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Baskerville Old Face",
+			"filename" : "BASKVILL.TTF",
+			"fullName" : "Baskerville Old Face",
+			"log" : null,
+			"postScript" : "BaskOldFace",
+			"size" : 54976.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bradley Hand ITC",
+			"filename" : "BRADHITC.TTF",
+			"fullName" : "Bradley Hand ITC",
+			"log" : null,
+			"postScript" : "BradleyHandITC",
+			"size" : 105296.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Berlin Sans FB",
+			"filename" : "BRLNSB.TTF",
+			"fullName" : "Berlin Sans FB Bold",
+			"log" : null,
+			"postScript" : "BerlinSansFB-Bold",
+			"size" : 96880.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Britannic Bold",
+			"filename" : "BRITANIC.TTF",
+			"fullName" : "Britannic Bold",
+			"log" : null,
+			"postScript" : "BritannicBold",
+			"size" : 40728.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Berlin Sans FB Demi",
+			"filename" : "BRLNSDB.TTF",
+			"fullName" : "Berlin Sans FB Demi Bold",
+			"log" : null,
+			"postScript" : "BerlinSansFBDemi-Bold",
+			"size" : 96852.0,
+			"style" : "Demi Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Berlin Sans FB",
+			"filename" : "BRLNSR.TTF",
+			"fullName" : "Berlin Sans FB",
+			"log" : null,
+			"postScript" : "BerlinSansFB-Reg",
+			"size" : 97284.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Broadway",
+			"filename" : "BROADW.TTF",
+			"fullName" : "Broadway",
+			"log" : null,
+			"postScript" : "Broadway",
+			"size" : 60372.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Arial Narrow",
+			"filename" : "ARIALN.TTF",
+			"fullName" : "Arial Narrow",
+			"log" : null,
+			"postScript" : "ArialNarrow",
+			"size" : 175956.0,
+			"style" : "Narrow",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Brush Script MT",
+			"filename" : "BRUSHSCI.TTF",
+			"fullName" : "Brush Script MT Italic",
+			"log" : null,
+			"postScript" : "BrushScriptMT",
+			"size" : 53456.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Bookshelf Symbol 7",
+			"filename" : "BSSYM7.TTF",
+			"fullName" : "Bookshelf Symbol 7",
+			"log" : null,
+			"postScript" : "BookshelfSymbolSeven",
+			"size" : 54412.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Calibri",
+			"filename" : "calibri.ttf",
+			"fullName" : "Calibri",
+			"log" : null,
+			"postScript" : "Calibri",
+			"size" : 1648120.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Arial Narrow",
+			"filename" : "ARIALNBI.TTF",
+			"fullName" : "Arial Narrow Bold Italic",
+			"log" : null,
+			"postScript" : "ArialNarrow-BoldItalic",
+			"size" : 180084.0,
+			"style" : "Narrow Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Calibri",
+			"filename" : "calibrib.ttf",
+			"fullName" : "Calibri Bold",
+			"log" : null,
+			"postScript" : "Calibri-Bold",
+			"size" : 1613668.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Calibri",
+			"filename" : "calibrii.ttf",
+			"fullName" : "Calibri Italic",
+			"log" : null,
+			"postScript" : "Calibri-Italic",
+			"size" : 1196672.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Calibri Light",
+			"filename" : "calibril.ttf",
+			"fullName" : "Calibri Light",
+			"log" : null,
+			"postScript" : "Calibri-Light",
+			"size" : 1438808.0,
+			"style" : "Light",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Calibri Light",
+			"filename" : "calibrili.ttf",
+			"fullName" : "Calibri Light Italic",
+			"log" : null,
+			"postScript" : "Calibri-LightItalic",
+			"size" : 1061248.0,
+			"style" : "Light Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Calibri",
+			"filename" : "calibriz.ttf",
+			"fullName" : "Calibri Bold Italic",
+			"log" : null,
+			"postScript" : "Calibri-BoldItalic",
+			"size" : 1159032.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Californian FB",
+			"filename" : "CALIFB.TTF",
+			"fullName" : "Californian FB Bold",
+			"log" : null,
+			"postScript" : "CalifornianFB-Bold",
+			"size" : 80620.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Californian FB",
+			"filename" : "CALIFI.TTF",
+			"fullName" : "Californian FB Italic",
+			"log" : null,
+			"postScript" : "CalifornianFB-Italic",
+			"size" : 98748.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Californian FB",
+			"filename" : "CALIFR.TTF",
+			"fullName" : "Californian FB",
+			"log" : null,
+			"postScript" : "CalifornianFB-Reg",
+			"size" : 105300.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Calisto MT",
+			"filename" : "CALIST.TTF",
+			"fullName" : "Calisto MT",
+			"log" : null,
+			"postScript" : "CalistoMT",
+			"size" : 80148.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Calisto MT",
+			"filename" : "CALISTB.TTF",
+			"fullName" : "Calisto MT Bold",
+			"log" : null,
+			"postScript" : "CalisMTBol",
+			"size" : 85080.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Calisto MT",
+			"filename" : "CALISTBI.TTF",
+			"fullName" : "Calisto MT Bold Italic",
+			"log" : null,
+			"postScript" : "CalistoMT-BoldItalic",
+			"size" : 84960.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Calisto MT",
+			"filename" : "CALISTI.TTF",
+			"fullName" : "Calisto MT Italic",
+			"log" : null,
+			"postScript" : "CalistoMT-Italic",
+			"size" : 59372.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Cambria",
+			"filename" : "cambriab.ttf",
+			"fullName" : "Cambria Bold",
+			"log" : null,
+			"postScript" : "Cambria-Bold",
+			"size" : 841440.0,
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Cambria",
+			"filename" : "cambriaz.ttf",
+			"fullName" : "Cambria Bold Italic",
+			"log" : null,
+			"postScript" : "Cambria-BoldItalic",
+			"size" : 856672.0,
+			"style" : "Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Candara",
+			"filename" : "Candara.ttf",
+			"fullName" : "Candara",
+			"log" : null,
+			"postScript" : "Candara",
+			"size" : 219532.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Candara",
+			"filename" : "Candarab.ttf",
+			"fullName" : "Candara Bold",
+			"log" : null,
+			"postScript" : "Candara-Bold",
+			"size" : 227604.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Arial Narrow",
+			"filename" : "ARIALNB.TTF",
+			"fullName" : "Arial Narrow Bold",
+			"log" : null,
+			"postScript" : "ArialNarrow-Bold",
+			"size" : 180740.0,
+			"style" : "Narrow Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Candara",
+			"filename" : "Candarai.ttf",
+			"fullName" : "Candara Italic",
+			"log" : null,
+			"postScript" : "Candara-Italic",
+			"size" : 227648.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Candara Light",
+			"filename" : "Candaral.ttf",
+			"fullName" : "Candara Light",
+			"log" : null,
+			"postScript" : "Candara-Light",
+			"size" : 122132.0,
+			"style" : "Light",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Candara Light",
+			"filename" : "Candarali.ttf",
+			"fullName" : "Candara Light Italic",
+			"log" : null,
+			"postScript" : "Candara-LightItalic",
+			"size" : 120996.0,
+			"style" : "Light Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Candara",
+			"filename" : "Candaraz.ttf",
+			"fullName" : "Candara Bold Italic",
+			"log" : null,
+			"postScript" : "Candara-BoldItalic",
+			"size" : 229364.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Carlito",
+			"filename" : "Carlito-Bold.ttf",
+			"fullName" : "Carlito Bold",
+			"log" : null,
+			"postScript" : "Carlito-Bold",
+			"size" : 690516.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Carlito",
+			"filename" : "Carlito-BoldItalic.ttf",
+			"fullName" : "Carlito Bold Italic",
+			"log" : null,
+			"postScript" : "Carlito-BoldItalic",
+			"size" : 816716.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Carlito",
+			"filename" : "Carlito-Italic.ttf",
+			"fullName" : "Carlito Italic",
+			"log" : null,
+			"postScript" : "Carlito-Italic",
+			"size" : 623416.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Cambria",
+			"filename" : "cambriai.ttf",
+			"fullName" : "Cambria Italic",
+			"log" : null,
+			"postScript" : "Cambria-Italic",
+			"size" : 892620.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Carlito",
+			"filename" : "Carlito-Regular.ttf",
+			"fullName" : "Carlito",
+			"log" : null,
+			"postScript" : "Carlito",
+			"size" : 635996.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Castellar",
+			"filename" : "CASTELAR.TTF",
+			"fullName" : "Castellar",
+			"log" : null,
+			"postScript" : "Castellar",
+			"size" : 48252.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Century Schoolbook",
+			"filename" : "CENSCBK.TTF",
+			"fullName" : "Century Schoolbook",
+			"log" : null,
+			"postScript" : "CenturySchoolbook",
+			"size" : 162380.0,
+			"style" : "Schoolbook",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Centaur",
+			"filename" : "CENTAUR.TTF",
+			"fullName" : "Centaur",
+			"log" : null,
+			"postScript" : "Centaur",
+			"size" : 82760.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Chiller",
+			"filename" : "CHILLER.TTF",
+			"fullName" : "Chiller",
+			"log" : null,
+			"postScript" : "Chiller-Regular",
+			"size" : 96452.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Colonna MT",
+			"filename" : "COLONNA.TTF",
+			"fullName" : "Colonna MT",
+			"log" : null,
+			"postScript" : "ColonnaMT",
+			"size" : 54952.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Comic Sans MS",
+			"filename" : "comicbd.ttf",
+			"fullName" : "Comic Sans MS Bold",
+			"log" : null,
+			"postScript" : "ComicSansMS-Bold",
+			"size" : 229408.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Comic Sans MS",
+			"filename" : "comici.ttf",
+			"fullName" : "Comic Sans MS Italic",
+			"log" : null,
+			"postScript" : "ComicSansMS-Italic",
+			"size" : 226708.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Comic Sans MS",
+			"filename" : "comicz.ttf",
+			"fullName" : "Comic Sans MS Bold Italic",
+			"log" : null,
+			"postScript" : "ComicSansMS-BoldItalic",
+			"size" : 224252.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Consolas",
+			"filename" : "consola.ttf",
+			"fullName" : "Consolas",
+			"log" : null,
+			"postScript" : "Consolas",
+			"size" : 459180.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Consolas",
+			"filename" : "consolab.ttf",
+			"fullName" : "Consolas Bold",
+			"log" : null,
+			"postScript" : "Consolas-Bold",
+			"size" : 397896.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Consolas",
+			"filename" : "consolai.ttf",
+			"fullName" : "Consolas Italic",
+			"log" : null,
+			"postScript" : "Consolas-Italic",
+			"size" : 467584.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Consolas",
+			"filename" : "consolaz.ttf",
+			"fullName" : "Consolas Bold Italic",
+			"log" : null,
+			"postScript" : "Consolas-BoldItalic",
+			"size" : 407956.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Constantia",
+			"filename" : "constanb.ttf",
+			"fullName" : "Constantia Bold",
+			"log" : null,
+			"postScript" : "Constantia-Bold",
+			"size" : 451824.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Constantia",
+			"filename" : "constan.ttf",
+			"fullName" : "Constantia",
+			"log" : null,
+			"postScript" : "Constantia",
+			"size" : 448376.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Constantia",
+			"filename" : "constani.ttf",
+			"fullName" : "Constantia Italic",
+			"log" : null,
+			"postScript" : "Constantia-Italic",
+			"size" : 448748.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Constantia",
+			"filename" : "constanz.ttf",
+			"fullName" : "Constantia Bold Italic",
+			"log" : null,
+			"postScript" : "Constantia-BoldItalic",
+			"size" : 455564.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Cooper Black",
+			"filename" : "COOPBL.TTF",
+			"fullName" : "Cooper Black",
+			"log" : null,
+			"postScript" : "CooperBlack",
+			"size" : 80388.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Copperplate Gothic Bold",
+			"filename" : "COPRGTB.TTF",
+			"fullName" : "Copperplate Gothic Bold",
+			"log" : null,
+			"postScript" : "CopperplateGothic-Bold",
+			"size" : 61552.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Copperplate Gothic Light",
+			"filename" : "COPRGTL.TTF",
+			"fullName" : "Copperplate Gothic Light",
+			"log" : null,
+			"postScript" : "CopperplateGothic-Light",
+			"size" : 62716.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Corbel",
+			"filename" : "corbel.ttf",
+			"fullName" : "Corbel",
+			"log" : null,
+			"postScript" : "Corbel",
+			"size" : 277168.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Corbel",
+			"filename" : "corbelb.ttf",
+			"fullName" : "Corbel Bold",
+			"log" : null,
+			"postScript" : "Corbel-Bold",
+			"size" : 290908.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Corbel",
+			"filename" : "corbeli.ttf",
+			"fullName" : "Corbel Italic",
+			"log" : null,
+			"postScript" : "Corbel-Italic",
+			"size" : 284690.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Comic Sans MS",
+			"filename" : "comic.ttf",
+			"fullName" : "Comic Sans MS",
+			"log" : null,
+			"postScript" : "ComicSansMS",
+			"size" : 245600.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Arial Narrow",
+			"filename" : "ARIALNI.TTF",
+			"fullName" : "Arial Narrow Italic",
+			"log" : null,
+			"postScript" : "ArialNarrow-Italic",
+			"size" : 181124.0,
+			"style" : "Narrow Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Book Antiqua",
+			"filename" : "BKANT.TTF",
+			"fullName" : "Book Antiqua",
+			"log" : null,
+			"postScript" : "BookAntiqua",
+			"size" : 155528.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Bad Script",
+			"filename" : "BadScript-Regular.ttf",
+			"fullName" : "Bad Script Regular",
+			"log" : null,
+			"postScript" : "BadScript-Regular",
+			"size" : 54420.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Arial Rounded MT Bold",
+			"filename" : "ARLRDBD.TTF",
+			"fullName" : "Arial Rounded MT Bold",
+			"log" : null,
+			"postScript" : "ArialRoundedMTBold",
+			"size" : 45260.0,
+			"style" : "Rounded MT Bold",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Century",
+			"filename" : "CENTURY.TTF",
+			"fullName" : "Century",
+			"log" : null,
+			"postScript" : "Century",
+			"size" : 165248.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Corbel Light",
+			"filename" : "corbell.ttf",
+			"fullName" : "Corbel Light",
+			"log" : null,
+			"postScript" : "Corbel-Light",
+			"size" : 172256.0,
+			"style" : "Light",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Corbel Light",
+			"filename" : "corbelli.ttf",
+			"fullName" : "Corbel Light Italic",
+			"log" : null,
+			"postScript" : "Corbel-LightItalic",
+			"size" : 169228.0,
+			"style" : "Light Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Corbel",
+			"filename" : "corbelz.ttf",
+			"fullName" : "Corbel Bold Italic",
+			"log" : null,
+			"postScript" : "Corbel-BoldItalic",
+			"size" : 294692.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Courier New",
+			"filename" : "cour.ttf",
+			"fullName" : "Courier New",
+			"log" : null,
+			"postScript" : "CourierNewPSMT",
+			"size" : 806504.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Courier New",
+			"filename" : "courbd.ttf",
+			"fullName" : "Courier New Bold",
+			"log" : null,
+			"postScript" : "CourierNewPS-BoldMT",
+			"size" : 805244.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Courier New",
+			"filename" : "courbi.ttf",
+			"fullName" : "Courier New Bold Italic",
+			"log" : null,
+			"postScript" : "CourierNewPS-BoldItalicMT",
+			"size" : 577488.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Courier New",
+			"filename" : "couri.ttf",
+			"fullName" : "Courier New Italic",
+			"log" : null,
+			"postScript" : "CourierNewPS-ItalicMT",
+			"size" : 667440.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Curlz MT",
+			"filename" : "CURLZ___.TTF",
+			"fullName" : "Curlz MT",
+			"log" : null,
+			"postScript" : "CurlzMT",
+			"size" : 69480.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Dubai",
+			"filename" : "DUBAI-BOLD.TTF",
+			"fullName" : "Dubai Bold",
+			"log" : null,
+			"postScript" : "Dubai-Bold",
+			"size" : 179268.0,
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Dubai Light",
+			"filename" : "DUBAI-LIGHT.TTF",
+			"fullName" : "Dubai Light",
+			"log" : null,
+			"postScript" : "Dubai-Light",
+			"size" : 179648.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Dubai Medium",
+			"filename" : "DUBAI-MEDIUM.TTF",
+			"fullName" : "Dubai Medium",
+			"log" : null,
+			"postScript" : "Dubai-Medium",
+			"size" : 179432.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Dubai",
+			"filename" : "DUBAI-REGULAR.TTF",
+			"fullName" : "Dubai Regular",
+			"log" : null,
+			"postScript" : "Dubai-Regular",
+			"size" : 181484.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Ebrima",
+			"filename" : "ebrima.ttf",
+			"fullName" : "Ebrima",
+			"log" : null,
+			"postScript" : "Ebrima",
+			"size" : 907232.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Ebrima",
+			"filename" : "ebrimabd.ttf",
+			"fullName" : "Ebrima Bold",
+			"log" : null,
+			"postScript" : "Ebrima-Bold",
+			"size" : 916908.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Elephant",
+			"filename" : "ELEPHNT.TTF",
+			"fullName" : "Elephant",
+			"log" : null,
+			"postScript" : "Elephant-Regular",
+			"size" : 51652.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Engravers MT",
+			"filename" : "ENGR.TTF",
+			"fullName" : "Engravers MT",
+			"log" : null,
+			"postScript" : "EngraversMT",
+			"size" : 49768.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Elephant",
+			"filename" : "ELEPHNTI.TTF",
+			"fullName" : "Elephant Italic",
+			"log" : null,
+			"postScript" : "Elephant-Italic",
+			"size" : 54324.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Eras Bold ITC",
+			"filename" : "ERASBD.TTF",
+			"fullName" : "Eras Bold ITC",
+			"log" : null,
+			"postScript" : "ErasITC-Bold",
+			"size" : 57508.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Eras Demi ITC",
+			"filename" : "ERASDEMI.TTF",
+			"fullName" : "Eras Demi ITC",
+			"log" : null,
+			"postScript" : "ErasITC-Demi",
+			"size" : 59996.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Eras Light ITC",
+			"filename" : "ERASLGHT.TTF",
+			"fullName" : "Eras Light ITC",
+			"log" : null,
+			"postScript" : "ErasITC-Light",
+			"size" : 68656.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Eras Medium ITC",
+			"filename" : "ERASMD.TTF",
+			"fullName" : "Eras Medium ITC",
+			"log" : null,
+			"postScript" : "ErasITC-Medium",
+			"size" : 60772.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "ET Asteroid 1\u0000",
+			"filename" : "EtAst1.ttf",
+			"fullName" : "ET Asteroid 1\u0000",
+			"log" : null,
+			"postScript" : "ETAsteroid-Regular\u0000",
+			"size" : 39212.0,
+			"subfamily" : "Regular\u0000"
+		},
+		{
+			"family" : "ET Symbol 3\u0000",
+			"filename" : "Etsym3.ttf",
+			"fullName" : "ET Symbol 3\u0000",
+			"log" : null,
+			"postScript" : "ETSymbol-Regular\u0000",
+			"size" : 70372.0,
+			"subfamily" : "Regular\u0000"
+		},
+		{
+			"family" : "Felix Titling",
+			"filename" : "FELIXTI.TTF",
+			"fullName" : "Felix Titling",
+			"log" : null,
+			"postScript" : "FelixTitlingMT",
+			"size" : 45952.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Forte",
+			"filename" : "FORTE.TTF",
+			"fullName" : "Forte",
+			"log" : null,
+			"postScript" : "ForteMT",
+			"size" : 61776.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Book",
+			"filename" : "FRABK.TTF",
+			"fullName" : "Franklin Gothic Book",
+			"log" : null,
+			"postScript" : "FranklinGothic-Book",
+			"size" : 152700.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Book",
+			"filename" : "FRABKIT.TTF",
+			"fullName" : "Franklin Gothic Book Italic",
+			"log" : null,
+			"postScript" : "FranklinGothic-BookItalic",
+			"size" : 169620.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Franklin Gothic Demi",
+			"filename" : "FRADM.TTF",
+			"fullName" : "Franklin Gothic Demi",
+			"log" : null,
+			"postScript" : "FranklinGothic-Demi",
+			"size" : 142932.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Demi Cond",
+			"filename" : "FRADMCN.TTF",
+			"fullName" : "Franklin Gothic Demi Cond",
+			"log" : null,
+			"postScript" : "FranklinGothic-DemiCond",
+			"size" : 116940.0,
+			"style" : "Cond",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Demi",
+			"filename" : "FRADMIT.TTF",
+			"fullName" : "Franklin Gothic Demi Italic",
+			"log" : null,
+			"postScript" : "FranklinGothic-DemiItalic",
+			"size" : 135904.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Franklin Gothic Heavy",
+			"filename" : "FRAHV.TTF",
+			"fullName" : "Franklin Gothic Heavy",
+			"log" : null,
+			"postScript" : "FranklinGothic-Heavy",
+			"size" : 139400.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Heavy",
+			"filename" : "FRAHVIT.TTF",
+			"fullName" : "Franklin Gothic Heavy Italic",
+			"log" : null,
+			"postScript" : "FranklinGothic-HeavyItalic",
+			"size" : 152700.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Franklin Gothic Medium",
+			"filename" : "framd.ttf",
+			"fullName" : "Franklin Gothic Medium",
+			"log" : null,
+			"postScript" : "FranklinGothic-Medium",
+			"size" : 133632.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Medium Cond",
+			"filename" : "FRAMDCN.TTF",
+			"fullName" : "Franklin Gothic Medium Cond",
+			"log" : null,
+			"postScript" : "FranklinGothic-MediumCond",
+			"size" : 132516.0,
+			"style" : "Cond",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Franklin Gothic Medium",
+			"filename" : "framdit.ttf",
+			"fullName" : "Franklin Gothic Medium Italic",
+			"log" : null,
+			"postScript" : "FranklinGothic-MediumItalic",
+			"size" : 148728.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Freestyle Script",
+			"filename" : "FREESCPT.TTF",
+			"fullName" : "Freestyle Script",
+			"log" : null,
+			"postScript" : "FreestyleScript-Regular",
+			"size" : 69876.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "French Script MT",
+			"filename" : "FRSCRIPT.TTF",
+			"fullName" : "French Script MT",
+			"log" : null,
+			"postScript" : "FrenchScriptMT",
+			"size" : 58580.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Footlight MT Light",
+			"filename" : "FTLTLT.TTF",
+			"fullName" : "Footlight MT Light",
+			"log" : null,
+			"postScript" : "FootlightMTLight",
+			"size" : 83580.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gabriola",
+			"filename" : "Gabriola.ttf",
+			"fullName" : "Gabriola",
+			"log" : null,
+			"postScript" : "Gabriola",
+			"size" : 1806004.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gadugi",
+			"filename" : "gadugi.ttf",
+			"fullName" : "Gadugi",
+			"log" : null,
+			"postScript" : "Gadugi",
+			"size" : 247240.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gadugi",
+			"filename" : "gadugib.ttf",
+			"fullName" : "Gadugi Bold",
+			"log" : null,
+			"postScript" : "Gadugi-Bold",
+			"size" : 244912.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Garamond",
+			"filename" : "GARA.TTF",
+			"fullName" : "Garamond",
+			"log" : null,
+			"postScript" : "Garamond",
+			"size" : 198072.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Garamond",
+			"filename" : "GARABD.TTF",
+			"fullName" : "Garamond Bold",
+			"log" : null,
+			"postScript" : "Garamond-Bold",
+			"size" : 199772.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Garamond",
+			"filename" : "GARAIT.TTF",
+			"fullName" : "Garamond Italic",
+			"log" : null,
+			"postScript" : "Garamond-Italic",
+			"size" : 189464.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Georgia",
+			"filename" : "georgia.ttf",
+			"fullName" : "Georgia",
+			"log" : null,
+			"postScript" : "Georgia",
+			"size" : 219712.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Georgia",
+			"filename" : "georgiab.ttf",
+			"fullName" : "Georgia Bold",
+			"log" : null,
+			"postScript" : "Georgia-Bold",
+			"size" : 207476.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Georgia",
+			"filename" : "georgiai.ttf",
+			"fullName" : "Georgia Italic",
+			"log" : null,
+			"postScript" : "Georgia-Italic",
+			"size" : 208444.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Georgia",
+			"filename" : "georgiaz.ttf",
+			"fullName" : "Georgia Bold Italic",
+			"log" : null,
+			"postScript" : "Georgia-BoldItalic",
+			"size" : 211780.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Gigi",
+			"filename" : "GIGI.TTF",
+			"fullName" : "Gigi",
+			"log" : null,
+			"postScript" : "Gigi-Regular",
+			"size" : 142072.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gill Sans MT",
+			"filename" : "GILBI___.TTF",
+			"fullName" : "Gill Sans MT Bold Italic",
+			"log" : null,
+			"postScript" : "GillSansMT-BoldItalic",
+			"size" : 71496.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Gill Sans MT",
+			"filename" : "GILB____.TTF",
+			"fullName" : "Gill Sans MT Bold",
+			"log" : null,
+			"postScript" : "GillSansMT-Bold",
+			"size" : 68304.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Gill Sans MT Condensed",
+			"filename" : "GILC____.TTF",
+			"fullName" : "Gill Sans MT Condensed",
+			"log" : null,
+			"postScript" : "GillSansMT-Condensed",
+			"size" : 60320.0,
+			"style" : "Condensed",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gill Sans MT",
+			"filename" : "GILI____.TTF",
+			"fullName" : "Gill Sans MT Italic",
+			"log" : null,
+			"postScript" : "GillSansMT-Italic",
+			"size" : 69436.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Gill Sans Ultra Bold",
+			"filename" : "GILSANUB.TTF",
+			"fullName" : "Gill Sans Ultra Bold",
+			"log" : null,
+			"postScript" : "GillSans-UltraBold",
+			"size" : 73136.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gill Sans MT",
+			"filename" : "GIL_____.TTF",
+			"fullName" : "Gill Sans MT",
+			"log" : null,
+			"postScript" : "GillSansMT",
+			"size" : 67416.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gloucester MT Extra Condensed",
+			"filename" : "GLECB.TTF",
+			"fullName" : "Gloucester MT Extra Condensed",
+			"log" : null,
+			"postScript" : "GloucesterMT-ExtraCondensed",
+			"size" : 72676.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gill Sans MT Ext Condensed Bold",
+			"filename" : "GLSNECB.TTF",
+			"fullName" : "Gill Sans MT Ext Condensed Bold",
+			"log" : null,
+			"postScript" : "GillSansMT-ExtraCondensedBold",
+			"size" : 84668.0,
+			"style" : "Ext Condensed Bold",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Century Gothic",
+			"filename" : "GOTHIC.TTF",
+			"fullName" : "Century Gothic",
+			"log" : null,
+			"postScript" : "CenturyGothic",
+			"size" : 137568.0,
+			"style" : "Gothic",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Century Gothic",
+			"filename" : "GOTHICB.TTF",
+			"fullName" : "Century Gothic Bold",
+			"log" : null,
+			"postScript" : "CenturyGothic-Bold",
+			"size" : 129676.0,
+			"style" : "Gothic Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Century Gothic",
+			"filename" : "GOTHICBI.TTF",
+			"fullName" : "Century Gothic Bold Italic",
+			"log" : null,
+			"postScript" : "CenturyGothic-BoldItalic",
+			"size" : 139084.0,
+			"style" : "Gothic Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Century Gothic",
+			"filename" : "GOTHICI.TTF",
+			"fullName" : "Century Gothic Italic",
+			"log" : null,
+			"postScript" : "CenturyGothic-Italic",
+			"size" : 148520.0,
+			"style" : "Gothic Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Goudy Old Style",
+			"filename" : "GOUDOS.TTF",
+			"fullName" : "Goudy Old Style",
+			"log" : null,
+			"postScript" : "GoudyOldStyleT-Regular",
+			"size" : 81376.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Goudy Old Style",
+			"filename" : "GOUDOSB.TTF",
+			"fullName" : "Goudy Old Style Bold",
+			"log" : null,
+			"postScript" : "GoudyOldStyleT-Bold",
+			"size" : 82796.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Goudy Old Style",
+			"filename" : "GOUDOSI.TTF",
+			"fullName" : "Goudy Old Style Italic",
+			"log" : null,
+			"postScript" : "GoudyOldStyleT-Italic",
+			"size" : 80280.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Goudy Stout",
+			"filename" : "GOUDYSTO.TTF",
+			"fullName" : "Goudy Stout",
+			"log" : null,
+			"postScript" : "GoudyStout",
+			"size" : 55956.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Harlow Solid Italic",
+			"filename" : "HARLOWSI.TTF",
+			"fullName" : "Harlow Solid Italic",
+			"log" : null,
+			"postScript" : "HarlowSolid",
+			"size" : 56596.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Harrington",
+			"filename" : "HARNGTON.TTF",
+			"fullName" : "Harrington",
+			"log" : null,
+			"postScript" : "Harrington",
+			"size" : 70440.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Haettenschweiler",
+			"filename" : "HATTEN.TTF",
+			"fullName" : "Haettenschweiler",
+			"log" : null,
+			"postScript" : "Haettenschweiler",
+			"size" : 108664.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft Himalaya",
+			"filename" : "himalaya.ttf",
+			"fullName" : "Microsoft Himalaya",
+			"log" : null,
+			"postScript" : "MicrosoftHimalaya",
+			"size" : 572776.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "HoloLens MDL2 Assets",
+			"filename" : "holomdl2.ttf",
+			"fullName" : "HoloLens MDL2 Assets",
+			"log" : null,
+			"postScript" : "HoloLensMDL2Assets",
+			"size" : 40264.0,
+			"subfamily" : "Normal"
+		},
+		{
+			"family" : "High Tower Text",
+			"filename" : "HTOWERT.TTF",
+			"fullName" : "High Tower Text",
+			"log" : null,
+			"postScript" : "HighTowerText-Reg",
+			"size" : 92736.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "High Tower Text",
+			"filename" : "HTOWERTI.TTF",
+			"fullName" : "High Tower Text Italic",
+			"log" : null,
+			"postScript" : "HighTowerText-Italic",
+			"size" : 74712.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Impact",
+			"filename" : "impact.ttf",
+			"fullName" : "Impact",
+			"log" : null,
+			"postScript" : "Impact",
+			"size" : 206784.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Imprint MT Shadow",
+			"filename" : "IMPRISHA.TTF",
+			"fullName" : "Imprint MT Shadow",
+			"log" : null,
+			"postScript" : "ImprintMT-Shadow",
+			"size" : 60488.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Informal Roman",
+			"filename" : "INFROMAN.TTF",
+			"fullName" : "Informal Roman",
+			"log" : null,
+			"postScript" : "InformalRoman-Regular",
+			"size" : 74968.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Ink Free",
+			"filename" : "Inkfree.ttf",
+			"fullName" : "Ink Free",
+			"log" : null,
+			"postScript" : "InkFree",
+			"size" : 57316.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Blackadder ITC",
+			"filename" : "ITCBLKAD.TTF",
+			"fullName" : "Blackadder ITC",
+			"log" : null,
+			"postScript" : "BlackadderITC-Regular",
+			"size" : 132372.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Edwardian Script ITC",
+			"filename" : "ITCEDSCR.TTF",
+			"fullName" : "Edwardian Script ITC",
+			"log" : null,
+			"postScript" : "EdwardianScriptITC",
+			"size" : 64056.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Kristen ITC",
+			"filename" : "ITCKRIST.TTF",
+			"fullName" : "Kristen ITC",
+			"log" : null,
+			"postScript" : "KristenITC-Regular",
+			"size" : 59712.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Javanese Text",
+			"filename" : "javatext.ttf",
+			"fullName" : "Javanese Text",
+			"log" : null,
+			"postScript" : "JavaneseText",
+			"size" : 305448.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Jokerman",
+			"filename" : "JOKERMAN.TTF",
+			"fullName" : "Jokerman",
+			"log" : null,
+			"postScript" : "Jokerman-Regular",
+			"size" : 69752.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Juice ITC",
+			"filename" : "JUICE___.TTF",
+			"fullName" : "Juice ITC",
+			"log" : null,
+			"postScript" : "JuiceITC-Regular",
+			"size" : 62884.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Wide Latin",
+			"filename" : "LATINWD.TTF",
+			"fullName" : "Wide Latin",
+			"log" : null,
+			"postScript" : "LatinWide",
+			"size" : 44824.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Lucida Bright",
+			"filename" : "LBRITED.TTF",
+			"fullName" : "Lucida Bright Demibold",
+			"log" : null,
+			"postScript" : "LucidaBright-Demi",
+			"size" : 66724.0,
+			"style" : "Demibold",
+			"subfamily" : "Demibold"
+		},
+		{
+			"family" : "Lucida Bright",
+			"filename" : "LBRITEDI.TTF",
+			"fullName" : "Lucida Bright Demibold Italic",
+			"log" : null,
+			"postScript" : "LucidaBright-DemiItalic",
+			"size" : 71456.0,
+			"style" : "Demibold Italic",
+			"subfamily" : "Demibold Italic"
+		},
+		{
+			"family" : "Lucida Bright",
+			"filename" : "LBRITEI.TTF",
+			"fullName" : "Lucida Bright Italic",
+			"log" : null,
+			"postScript" : "LucidaBright-Italic",
+			"size" : 71000.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Lucida Calligraphy",
+			"filename" : "LCALLIG.TTF",
+			"fullName" : "Lucida Calligraphy Italic",
+			"log" : null,
+			"postScript" : "LucidaCalligraphy-Italic",
+			"size" : 55464.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Leelawadee UI",
+			"filename" : "LeelaUIb.ttf",
+			"fullName" : "Leelawadee UI Negreta",
+			"log" : null,
+			"postScript" : "LeelawadeeUI-Bold",
+			"size" : 327420.0,
+			"style" : "UI Negreta",
+			"subfamily" : "Negreta"
+		},
+		{
+			"family" : "Leelawadee",
+			"filename" : "LEELAWAD.TTF",
+			"fullName" : "Leelawadee",
+			"log" : null,
+			"postScript" : "Leelawadee",
+			"size" : 94064.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Leelawadee",
+			"filename" : "LEELAWDB.TTF",
+			"fullName" : "Leelawadee Bold",
+			"log" : null,
+			"postScript" : "LeelawadeeBold",
+			"size" : 93836.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Leelawadee UI",
+			"filename" : "LeelawUI.ttf",
+			"fullName" : "Leelawadee UI",
+			"log" : null,
+			"postScript" : "LeelawadeeUI",
+			"size" : 393764.0,
+			"style" : "UI",
+			"subfamily" : "Normal"
+		},
+		{
+			"family" : "Leelawadee UI Semilight",
+			"filename" : "LeelUIsl.ttf",
+			"fullName" : "Leelawadee UI Semilight Normal",
+			"log" : null,
+			"postScript" : "LeelawadeeUI-Semilight",
+			"size" : 386264.0,
+			"style" : "UI Semilight Normal",
+			"subfamily" : "Normal"
+		},
+		{
+			"family" : "Lucida Fax",
+			"filename" : "LFAX.TTF",
+			"fullName" : "Lucida Fax Regular",
+			"log" : null,
+			"postScript" : "LucidaFax",
+			"size" : 61912.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Lucida Fax",
+			"filename" : "LFAXD.TTF",
+			"fullName" : "Lucida Fax Demibold",
+			"log" : null,
+			"postScript" : "LucidaFax-Demi",
+			"size" : 62100.0,
+			"subfamily" : "Demibold"
+		},
+		{
+			"family" : "Lucida Bright",
+			"filename" : "LBRITE.TTF",
+			"fullName" : "Lucida Bright",
+			"log" : null,
+			"postScript" : "LucidaBright",
+			"size" : 70748.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Gill Sans Ultra Bold Condensed",
+			"filename" : "GILLUBCD.TTF",
+			"fullName" : "Gill Sans Ultra Bold Condensed",
+			"log" : null,
+			"postScript" : "GillSans-UltraBoldCondensed",
+			"size" : 72408.0,
+			"style" : "Condensed",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Kunstler Script",
+			"filename" : "KUNSTLER.TTF",
+			"fullName" : "Kunstler Script",
+			"log" : null,
+			"postScript" : "KunstlerScript",
+			"size" : 63392.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Lucida Fax",
+			"filename" : "LFAXDI.TTF",
+			"fullName" : "Lucida Fax Demibold Italic",
+			"log" : null,
+			"postScript" : "LucidaFax-DemiItalic",
+			"size" : 71472.0,
+			"style" : "Italic",
+			"subfamily" : "Demibold Italic"
+		},
+		{
+			"family" : "Lucida Fax",
+			"filename" : "LFAXI.TTF",
+			"fullName" : "Lucida Fax Italic",
+			"log" : null,
+			"postScript" : "LucidaFax-Italic",
+			"size" : 67420.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Lucida Handwriting",
+			"filename" : "LHANDW.TTF",
+			"fullName" : "Lucida Handwriting Italic",
+			"log" : null,
+			"postScript" : "LucidaHandwriting-Italic",
+			"size" : 62484.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Lucida Sans",
+			"filename" : "LSANS.TTF",
+			"fullName" : "Lucida Sans Regular",
+			"log" : null,
+			"postScript" : "LucidaSans",
+			"size" : 64608.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Lucida Sans",
+			"filename" : "LSANSD.TTF",
+			"fullName" : "Lucida Sans Demibold Roman",
+			"log" : null,
+			"postScript" : "LucidaSans-Demi",
+			"size" : 59976.0,
+			"subfamily" : "Demibold Roman"
+		},
+		{
+			"family" : "Lucida Sans",
+			"filename" : "LSANSDI.TTF",
+			"fullName" : "Lucida Sans Demibold Italic",
+			"log" : null,
+			"postScript" : "LucidaSans-DemiItalic",
+			"size" : 66320.0,
+			"subfamily" : "Demibold Italic"
+		},
+		{
+			"family" : "Lucida Sans",
+			"filename" : "LSANSI.TTF",
+			"fullName" : "Lucida Sans Italic",
+			"log" : null,
+			"postScript" : "LucidaSans-Italic",
+			"size" : 65412.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Lucida Sans Typewriter",
+			"filename" : "LTYPE.TTF",
+			"fullName" : "Lucida Sans Typewriter Regular",
+			"log" : null,
+			"postScript" : "LucidaSans-Typewriter",
+			"size" : 55984.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Lucida Sans Typewriter",
+			"filename" : "LTYPEB.TTF",
+			"fullName" : "Lucida Sans Typewriter Bold",
+			"log" : null,
+			"postScript" : "LucidaSans-TypewriterBold",
+			"size" : 52868.0,
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Lucida Sans Typewriter",
+			"filename" : "LTYPEBO.TTF",
+			"fullName" : "Lucida Sans Typewriter Bold Oblique",
+			"log" : null,
+			"postScript" : "LucidaSans-TypewriterBoldOblique",
+			"size" : 54620.0,
+			"style" : "Oblique",
+			"subfamily" : "Bold Oblique"
+		},
+		{
+			"family" : "Lucida Sans Typewriter",
+			"filename" : "LTYPEO.TTF",
+			"fullName" : "Lucida Sans Typewriter Oblique",
+			"log" : null,
+			"postScript" : "LucidaSans-TypewriterOblique",
+			"size" : 65412.0,
+			"subfamily" : "Oblique"
+		},
+		{
+			"family" : "Lucida Console",
+			"filename" : "lucon.ttf",
+			"fullName" : "Lucida Console",
+			"log" : null,
+			"postScript" : "LucidaConsole",
+			"size" : 111108.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Lucida Sans Unicode",
+			"filename" : "l_10646.ttf",
+			"fullName" : "Lucida Sans Unicode",
+			"log" : null,
+			"postScript" : "LucidaSansUnicode",
+			"size" : 309516.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Magneto",
+			"filename" : "MAGNETOB.TTF",
+			"fullName" : "Magneto Bold",
+			"log" : null,
+			"postScript" : "Magneto-Bold",
+			"size" : 65284.0,
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Maiandra GD",
+			"filename" : "MAIAN.TTF",
+			"fullName" : "Maiandra GD",
+			"log" : null,
+			"postScript" : "MaiandraGD-Regular",
+			"size" : 61384.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Malgun Gothic",
+			"filename" : "malgunbd.ttf",
+			"fullName" : "Malgun Gothic Bold",
+			"log" : null,
+			"postScript" : "MalgunGothicBold",
+			"size" : 12598360.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Malgun Gothic",
+			"filename" : "malgun.ttf",
+			"fullName" : "Malgun Gothic",
+			"log" : null,
+			"postScript" : "MalgunGothic",
+			"size" : 13457164.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Malgun Gothic Semilight",
+			"filename" : "malgunsl.ttf",
+			"fullName" : "Malgun Gothic Semilight",
+			"log" : null,
+			"postScript" : "MalgunGothic-Semilight",
+			"size" : 5083156.0,
+			"style" : "Semilight",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Matura MT Script Capitals",
+			"filename" : "MATURASC.TTF",
+			"fullName" : "Matura MT Script Capitals",
+			"log" : null,
+			"postScript" : "MaturaMTScriptCapitals",
+			"size" : 51296.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Miama Nueva",
+			"filename" : "miamanueva.ttf",
+			"fullName" : "Miama Nueva",
+			"log" : null,
+			"postScript" : "MiamaNueva",
+			"size" : 397984.0,
+			"subfamily" : "Medium"
+		},
+		{
+			"family" : "Mistral",
+			"filename" : "MISTRAL.TTF",
+			"fullName" : "Mistral",
+			"log" : null,
+			"postScript" : "Mistral",
+			"size" : 191716.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Myanmar Text",
+			"filename" : "mmrtext.ttf",
+			"fullName" : "Myanmar Text",
+			"log" : null,
+			"postScript" : "MyanmarText",
+			"size" : 355292.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Myanmar Text",
+			"filename" : "mmrtextb.ttf",
+			"fullName" : "Myanmar Text Bold",
+			"log" : null,
+			"postScript" : "MyanmarText-Bold",
+			"size" : 335368.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Modern No. 20",
+			"filename" : "MOD20.TTF",
+			"fullName" : "Modern No. 20",
+			"log" : null,
+			"postScript" : "Modern-Regular",
+			"size" : 62612.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Mongolian Baiti",
+			"filename" : "monbaiti.ttf",
+			"fullName" : "Mongolian Baiti",
+			"log" : null,
+			"postScript" : "MongolianBaiti",
+			"size" : 289052.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft Uighur",
+			"filename" : "MSUIGHUR.TTF",
+			"fullName" : "Microsoft Uighur",
+			"log" : null,
+			"postScript" : "MicrosoftUighur",
+			"size" : 222632.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft Uighur",
+			"filename" : "MSUIGHUB.TTF",
+			"fullName" : "Microsoft Uighur Bold",
+			"log" : null,
+			"postScript" : "MicrosoftUighur-Bold",
+			"size" : 247348.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Microsoft Yi Baiti",
+			"filename" : "msyi.ttf",
+			"fullName" : "Microsoft Yi Baiti",
+			"log" : null,
+			"postScript" : "Microsoft-Yi-Baiti",
+			"size" : 301180.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Monotype Corsiva",
+			"filename" : "MTCORSVA.TTF",
+			"fullName" : "Monotype Corsiva",
+			"log" : null,
+			"postScript" : "MonotypeCorsiva",
+			"size" : 157360.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "MT Extra",
+			"filename" : "MTEXTRA.TTF",
+			"fullName" : "MT Extra",
+			"log" : null,
+			"postScript" : "MT-Extra",
+			"size" : 9024.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "MV Boli",
+			"filename" : "mvboli.ttf",
+			"fullName" : "MV Boli",
+			"log" : null,
+			"postScript" : "MVBoli",
+			"size" : 78272.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Niagara Engraved",
+			"filename" : "NIAGENG.TTF",
+			"fullName" : "Niagara Engraved",
+			"log" : null,
+			"postScript" : "NiagaraEngraved-Reg",
+			"size" : 95904.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Niagara Solid",
+			"filename" : "NIAGSOL.TTF",
+			"fullName" : "Niagara Solid",
+			"log" : null,
+			"postScript" : "NiagaraSolid-Reg",
+			"size" : 74012.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Nirmala UI",
+			"filename" : "Nirmala.ttf",
+			"fullName" : "Nirmala UI",
+			"log" : null,
+			"postScript" : "NirmalaUI",
+			"size" : 1518820.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Nirmala UI",
+			"filename" : "NirmalaB.ttf",
+			"fullName" : "Nirmala UI Bold",
+			"log" : null,
+			"postScript" : "NirmalaUI-Bold",
+			"size" : 1472884.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Nirmala UI Semilight",
+			"filename" : "NirmalaS.ttf",
+			"fullName" : "Nirmala UI Semilight",
+			"log" : null,
+			"postScript" : "NirmalaUI-Semilight",
+			"size" : 1553396.0,
+			"style" : "Semilight",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft New Tai Lue",
+			"filename" : "ntailu.ttf",
+			"fullName" : "Microsoft New Tai Lue",
+			"log" : null,
+			"postScript" : "MicrosoftNewTaiLue",
+			"size" : 74464.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft New Tai Lue",
+			"filename" : "ntailub.ttf",
+			"fullName" : "Microsoft New Tai Lue Bold",
+			"log" : null,
+			"postScript" : "MicrosoftNewTaiLue-Bold",
+			"size" : 67168.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "OCR A Extended",
+			"filename" : "OCRAEXT.TTF",
+			"fullName" : "OCR A Extended",
+			"log" : null,
+			"postScript" : "OCRAExtended",
+			"size" : 55400.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Old English Text MT",
+			"filename" : "OLDENGL.TTF",
+			"fullName" : "Old English Text MT",
+			"log" : null,
+			"postScript" : "OldEnglishTextMT",
+			"size" : 93068.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Onyx",
+			"filename" : "ONYX.TTF",
+			"fullName" : "Onyx",
+			"log" : null,
+			"postScript" : "Onyx",
+			"size" : 81044.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Palatino Linotype",
+			"filename" : "pala.ttf",
+			"fullName" : "Palatino Linotype",
+			"log" : null,
+			"postScript" : "PalatinoLinotype-Roman",
+			"size" : 472284.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "MS Outlook",
+			"filename" : "OUTLOOK.TTF",
+			"fullName" : "MS Outlook",
+			"log" : null,
+			"postScript" : "MSOutlook",
+			"size" : 17672.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Palatino Linotype",
+			"filename" : "palab.ttf",
+			"fullName" : "Palatino Linotype Bold",
+			"log" : null,
+			"postScript" : "PalatinoLinotype-Bold",
+			"size" : 419932.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Palatino Linotype",
+			"filename" : "palabi.ttf",
+			"fullName" : "Palatino Linotype Bold Italic",
+			"log" : null,
+			"postScript" : "PalatinoLinotype-BoldItalic",
+			"size" : 335292.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Palatino Linotype",
+			"filename" : "palai.ttf",
+			"fullName" : "Palatino Linotype Italic",
+			"log" : null,
+			"postScript" : "PalatinoLinotype-Italic",
+			"size" : 413708.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Palace Script MT",
+			"filename" : "PALSCRI.TTF",
+			"fullName" : "Palace Script MT",
+			"log" : null,
+			"postScript" : "PalaceScriptMT",
+			"size" : 51404.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Papyrus",
+			"filename" : "PAPYRUS.TTF",
+			"fullName" : "Papyrus",
+			"log" : null,
+			"postScript" : "Papyrus-Regular",
+			"size" : 163476.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Parchment",
+			"filename" : "PARCHM.TTF",
+			"fullName" : "Parchment",
+			"log" : null,
+			"postScript" : "Parchment-Regular",
+			"size" : 151256.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Perpetua",
+			"filename" : "PERBI___.TTF",
+			"fullName" : "Perpetua Bold Italic",
+			"log" : null,
+			"postScript" : "Perpetua-BoldItalic",
+			"size" : 75620.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Microsoft Sans Serif",
+			"filename" : "micross.ttf",
+			"fullName" : "Microsoft Sans Serif",
+			"log" : null,
+			"postScript" : "MicrosoftSansSerif",
+			"size" : 876256.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Perpetua",
+			"filename" : "PERI____.TTF",
+			"fullName" : "Perpetua Italic",
+			"log" : null,
+			"postScript" : "Perpetua-Italic",
+			"size" : 76080.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Perpetua Titling MT",
+			"filename" : "PERTIBD.TTF",
+			"fullName" : "Perpetua Titling MT Bold",
+			"log" : null,
+			"postScript" : "PerpetuaTitlingMT-Bold",
+			"size" : 48320.0,
+			"style" : "Titling MT Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Perpetua Titling MT",
+			"filename" : "PERTILI.TTF",
+			"fullName" : "Perpetua Titling MT Light",
+			"log" : null,
+			"postScript" : "PerpetuaTitlingMT-Light",
+			"size" : 43800.0,
+			"style" : "Titling MT Light",
+			"subfamily" : "Light"
+		},
+		{
+			"family" : "Perpetua",
+			"filename" : "PER_____.TTF",
+			"fullName" : "Perpetua",
+			"log" : null,
+			"postScript" : "Perpetua",
+			"size" : 60216.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft PhagsPa",
+			"filename" : "phagspa.ttf",
+			"fullName" : "Microsoft PhagsPa",
+			"log" : null,
+			"postScript" : "MicrosoftPhagsPa",
+			"size" : 93720.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft PhagsPa",
+			"filename" : "phagspab.ttf",
+			"fullName" : "Microsoft PhagsPa Bold",
+			"log" : null,
+			"postScript" : "MicrosoftPhagsPa-Bold",
+			"size" : 97476.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Playbill",
+			"filename" : "PLAYBILL.TTF",
+			"fullName" : "Playbill",
+			"log" : null,
+			"postScript" : "Playbill",
+			"size" : 46164.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Poor Richard",
+			"filename" : "POORICH.TTF",
+			"fullName" : "Poor Richard",
+			"log" : null,
+			"postScript" : "PoorRichard-Regular",
+			"size" : 76588.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Pristina",
+			"filename" : "PRISTINA.TTF",
+			"fullName" : "Pristina",
+			"log" : null,
+			"postScript" : "Pristina-Regular",
+			"size" : 82680.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Rage Italic",
+			"filename" : "RAGE.TTF",
+			"fullName" : "Rage Italic",
+			"log" : null,
+			"postScript" : "RageItalic",
+			"size" : 132600.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Ravie",
+			"filename" : "RAVIE.TTF",
+			"fullName" : "Ravie",
+			"log" : null,
+			"postScript" : "Ravie",
+			"size" : 74416.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "MS Reference Sans Serif",
+			"filename" : "REFSAN.TTF",
+			"fullName" : "MS Reference Sans Serif",
+			"log" : null,
+			"postScript" : "MSReferenceSansSerif",
+			"size" : 220172.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "MS Reference Specialty",
+			"filename" : "REFSPCL.TTF",
+			"fullName" : "MS Reference Specialty",
+			"log" : null,
+			"postScript" : "MSReferenceSpecialty",
+			"size" : 53288.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Perpetua",
+			"filename" : "PERB____.TTF",
+			"fullName" : "Perpetua Bold",
+			"log" : null,
+			"postScript" : "Perpetua-Bold",
+			"size" : 58512.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Rockwell Condensed",
+			"filename" : "ROCCB___.TTF",
+			"fullName" : "Rockwell Condensed Bold",
+			"log" : null,
+			"postScript" : "Rockwell-CondensedBold",
+			"size" : 59444.0,
+			"style" : "Condensed Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Rockwell Condensed",
+			"filename" : "ROCC____.TTF",
+			"fullName" : "Rockwell Condensed",
+			"log" : null,
+			"postScript" : "Rockwell-Condensed",
+			"size" : 55824.0,
+			"style" : "Condensed",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Rockwell",
+			"filename" : "ROCK.TTF",
+			"fullName" : "Rockwell",
+			"log" : null,
+			"postScript" : "Rockwell",
+			"size" : 72272.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Rockwell",
+			"filename" : "ROCKB.TTF",
+			"fullName" : "Rockwell Bold",
+			"log" : null,
+			"postScript" : "Rockwell-Bold",
+			"size" : 68780.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Rockwell",
+			"filename" : "ROCKBI.TTF",
+			"fullName" : "Rockwell Bold Italic",
+			"log" : null,
+			"postScript" : "Rockwell-BoldItalic",
+			"size" : 73700.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Rockwell Extra Bold",
+			"filename" : "ROCKEB.TTF",
+			"fullName" : "Rockwell Extra Bold",
+			"log" : null,
+			"postScript" : "Rockwell-ExtraBold",
+			"size" : 49168.0,
+			"style" : "Extra Bold",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Rockwell",
+			"filename" : "ROCKI.TTF",
+			"fullName" : "Rockwell Italic",
+			"log" : null,
+			"postScript" : "Rockwell-Italic",
+			"size" : 76756.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Century Schoolbook",
+			"filename" : "SCHLBKBI.TTF",
+			"fullName" : "Century Schoolbook Bold Italic",
+			"log" : null,
+			"postScript" : "CenturySchoolbook-BoldItalic",
+			"size" : 160964.0,
+			"style" : "Schoolbook Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Century Schoolbook",
+			"filename" : "SCHLBKI.TTF",
+			"fullName" : "Century Schoolbook Italic",
+			"log" : null,
+			"postScript" : "CenturySchoolbook-Italic",
+			"size" : 163164.0,
+			"style" : "Schoolbook Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Script MT Bold",
+			"filename" : "SCRIPTBL.TTF",
+			"fullName" : "Script MT Bold",
+			"log" : null,
+			"postScript" : "ScriptMTBold",
+			"size" : 55500.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe MDL2 Assets",
+			"filename" : "segmdl2.ttf",
+			"fullName" : "Segoe MDL2 Assets",
+			"log" : null,
+			"postScript" : "SegoeMDL2Assets",
+			"size" : 264272.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe Print",
+			"filename" : "segoepr.ttf",
+			"fullName" : "Segoe Print",
+			"log" : null,
+			"postScript" : "SegoePrint",
+			"size" : 168404.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe Print",
+			"filename" : "segoeprb.ttf",
+			"fullName" : "Segoe Print Bold",
+			"log" : null,
+			"postScript" : "SegoePrint-Bold",
+			"size" : 167800.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Segoe Script",
+			"filename" : "segoesc.ttf",
+			"fullName" : "Segoe Script",
+			"log" : null,
+			"postScript" : "SegoeScript",
+			"size" : 596948.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe Script",
+			"filename" : "segoescb.ttf",
+			"fullName" : "Segoe Script Bold",
+			"log" : null,
+			"postScript" : "SegoeScript-Bold",
+			"size" : 581252.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Segoe UI",
+			"filename" : "segoeui.ttf",
+			"fullName" : "Segoe UI",
+			"log" : null,
+			"postScript" : "SegoeUI",
+			"size" : 955804.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe UI",
+			"filename" : "segoeuib.ttf",
+			"fullName" : "Segoe UI Bold",
+			"log" : null,
+			"postScript" : "SegoeUI-Bold",
+			"size" : 951724.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Segoe UI",
+			"filename" : "segoeuii.ttf",
+			"fullName" : "Segoe UI Italic",
+			"log" : null,
+			"postScript" : "SegoeUI-Italic",
+			"size" : 529712.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Segoe UI Light",
+			"filename" : "segoeuil.ttf",
+			"fullName" : "Segoe UI Light",
+			"log" : null,
+			"postScript" : "SegoeUI-Light",
+			"size" : 913712.0,
+			"style" : "Light",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Century Schoolbook",
+			"filename" : "SCHLBKB.TTF",
+			"fullName" : "Century Schoolbook Bold",
+			"log" : null,
+			"postScript" : "CenturySchoolbook-Bold",
+			"size" : 168756.0,
+			"style" : "Schoolbook Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Segoe UI Semilight",
+			"filename" : "segoeuisl.ttf",
+			"fullName" : "Segoe UI Semilight",
+			"log" : null,
+			"postScript" : "SegoeUI-Semilight",
+			"size" : 854140.0,
+			"style" : "Semilight",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe UI",
+			"filename" : "segoeuiz.ttf",
+			"fullName" : "Segoe UI Bold Italic",
+			"log" : null,
+			"postScript" : "SegoeUI-BoldItalic",
+			"size" : 541468.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Segoe UI Black",
+			"filename" : "seguibl.ttf",
+			"fullName" : "Segoe UI Black",
+			"log" : null,
+			"postScript" : "SegoeUIBlack",
+			"size" : 324260.0,
+			"style" : "Black",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe UI Black",
+			"filename" : "seguibli.ttf",
+			"fullName" : "Segoe UI Black Italic",
+			"log" : null,
+			"postScript" : "SegoeUIBlack-Italic",
+			"size" : 356008.0,
+			"style" : "Black Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Segoe UI Emoji",
+			"filename" : "seguiemj.ttf",
+			"fullName" : "Segoe UI Emoji",
+			"log" : null,
+			"postScript" : "SegoeUIEmoji",
+			"size" : 2072388.0,
+			"style" : "Emoji",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe UI Historic",
+			"filename" : "seguihis.ttf",
+			"fullName" : "Segoe UI Historic",
+			"log" : null,
+			"postScript" : "SegoeUIHistoric",
+			"size" : 1400724.0,
+			"style" : "Historic",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe UI Light",
+			"filename" : "seguili.ttf",
+			"fullName" : "Segoe UI Light Italic",
+			"log" : null,
+			"postScript" : "SegoeUI-LightItalic",
+			"size" : 459940.0,
+			"style" : "Light Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Segoe UI Semibold",
+			"filename" : "seguisb.ttf",
+			"fullName" : "Segoe UI Semibold",
+			"log" : null,
+			"postScript" : "SegoeUI-Semibold",
+			"size" : 971080.0,
+			"style" : "Semibold",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Segoe UI Semibold",
+			"filename" : "seguisbi.ttf",
+			"fullName" : "Segoe UI Semibold Italic",
+			"log" : null,
+			"postScript" : "SegoeUI-SemiboldItalic",
+			"size" : 457892.0,
+			"style" : "Semibold Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Segoe UI Semilight",
+			"filename" : "seguisli.ttf",
+			"fullName" : "Segoe UI Semilight Italic",
+			"log" : null,
+			"postScript" : "SegoeUI-SemilightItalic",
+			"size" : 467180.0,
+			"style" : "Semilight Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Segoe UI Symbol",
+			"filename" : "seguisym.ttf",
+			"fullName" : "Segoe UI Symbol",
+			"log" : null,
+			"postScript" : "SegoeUISymbol",
+			"size" : 2454728.0,
+			"style" : "Symbol",
+			"subfamily" : "Normal"
+		},
+		{
+			"family" : "Showcard Gothic",
+			"filename" : "SHOWG.TTF",
+			"fullName" : "Showcard Gothic",
+			"log" : null,
+			"postScript" : "ShowcardGothic-Reg",
+			"size" : 52316.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "SimSun-ExtB",
+			"filename" : "simsunb.ttf",
+			"fullName" : "SimSun-ExtB",
+			"log" : null,
+			"postScript" : "SimSun-ExtB",
+			"size" : 17064180.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Snap ITC",
+			"filename" : "SNAP____.TTF",
+			"fullName" : "Snap ITC",
+			"log" : null,
+			"postScript" : "SnapITC-Regular",
+			"size" : 63196.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Stencil",
+			"filename" : "STENCIL.TTF",
+			"fullName" : "Stencil",
+			"log" : null,
+			"postScript" : "Stencil",
+			"size" : 55596.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Sylfaen",
+			"filename" : "sylfaen.ttf",
+			"fullName" : "Sylfaen",
+			"log" : null,
+			"postScript" : "Sylfaen",
+			"size" : 256528.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Symbol",
+			"filename" : "symbol.ttf",
+			"fullName" : "Symbol",
+			"log" : null,
+			"postScript" : "SymbolMT",
+			"size" : 69036.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Tahoma",
+			"filename" : "tahoma.ttf",
+			"fullName" : "Tahoma",
+			"log" : null,
+			"postScript" : "Tahoma",
+			"size" : 939280.0,
+			"subfamily" : "Normal"
+		},
+		{
+			"family" : "Tahoma",
+			"filename" : "tahomabd.ttf",
+			"fullName" : "Tahoma Negreta",
+			"log" : null,
+			"postScript" : "Tahoma-Bold",
+			"size" : 867988.0,
+			"style" : "Negreta",
+			"subfamily" : "Negreta"
+		},
+		{
+			"family" : "Microsoft Tai Le",
+			"filename" : "taile.ttf",
+			"fullName" : "Microsoft Tai Le",
+			"log" : null,
+			"postScript" : "MicrosoftTaiLe",
+			"size" : 67568.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Microsoft Tai Le",
+			"filename" : "taileb.ttf",
+			"fullName" : "Microsoft Tai Le Bold",
+			"log" : null,
+			"postScript" : "MicrosoftTaiLe-Bold",
+			"size" : 58532.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Tw Cen MT",
+			"filename" : "TCB_____.TTF",
+			"fullName" : "Tw Cen MT Bold",
+			"log" : null,
+			"postScript" : "TwCenMT-Bold",
+			"size" : 74656.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Tw Cen MT Condensed",
+			"filename" : "TCCB____.TTF",
+			"fullName" : "Tw Cen MT Condensed Bold",
+			"log" : null,
+			"postScript" : "TwCenMT-CondensedBold",
+			"size" : 66020.0,
+			"style" : "Condensed Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Tw Cen MT Condensed Extra Bold",
+			"filename" : "TCCEB.TTF",
+			"fullName" : "Tw Cen MT Condensed Extra Bold",
+			"log" : null,
+			"postScript" : "TwCenMT-CondensedExtraBold",
+			"size" : 74708.0,
+			"style" : "Condensed Extra Bold",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Tw Cen MT",
+			"filename" : "TCM_____.TTF",
+			"fullName" : "Tw Cen MT",
+			"log" : null,
+			"postScript" : "TwCenMT-Regular",
+			"size" : 76252.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Tempus Sans ITC",
+			"filename" : "TEMPSITC.TTF",
+			"fullName" : "Tempus Sans ITC",
+			"log" : null,
+			"postScript" : "TempusSansITC",
+			"size" : 76100.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Times New Roman",
+			"filename" : "times.ttf",
+			"fullName" : "Times New Roman",
+			"log" : null,
+			"postScript" : "TimesNewRomanPSMT",
+			"size" : 1195688.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Times New Roman",
+			"filename" : "timesbd.ttf",
+			"fullName" : "Times New Roman Bold",
+			"log" : null,
+			"postScript" : "TimesNewRomanPS-BoldMT",
+			"size" : 1175904.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Times New Roman",
+			"filename" : "timesbi.ttf",
+			"fullName" : "Times New Roman Bold Italic",
+			"log" : null,
+			"postScript" : "TimesNewRomanPS-BoldItalicMT",
+			"size" : 881860.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Times New Roman",
+			"filename" : "timesi.ttf",
+			"fullName" : "Times New Roman Italic",
+			"log" : null,
+			"postScript" : "TimesNewRomanPS-ItalicMT",
+			"size" : 940288.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Trebuchet MS",
+			"filename" : "trebuc.ttf",
+			"fullName" : "Trebuchet MS",
+			"log" : null,
+			"postScript" : "TrebuchetMS",
+			"size" : 254396.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Trebuchet MS",
+			"filename" : "trebucbd.ttf",
+			"fullName" : "Trebuchet MS Bold",
+			"log" : null,
+			"postScript" : "TrebuchetMS-Bold",
+			"size" : 244124.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Trebuchet MS",
+			"filename" : "trebucit.ttf",
+			"fullName" : "Trebuchet MS Italic",
+			"log" : null,
+			"postScript" : "TrebuchetMS-Italic",
+			"size" : 252224.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Trebuchet MS",
+			"filename" : "trebucbi.ttf",
+			"fullName" : "Trebuchet MS Bold Italic",
+			"log" : null,
+			"postScript" : "Trebuchet-BoldItalic",
+			"size" : 225868.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Verdana",
+			"filename" : "verdana.ttf",
+			"fullName" : "Verdana",
+			"log" : null,
+			"postScript" : "Verdana",
+			"size" : 243304.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Verdana",
+			"filename" : "verdanab.ttf",
+			"fullName" : "Verdana Bold",
+			"log" : null,
+			"postScript" : "Verdana-Bold",
+			"size" : 211260.0,
+			"style" : "Bold",
+			"subfamily" : "Bold"
+		},
+		{
+			"family" : "Verdana",
+			"filename" : "verdanai.ttf",
+			"fullName" : "Verdana Italic",
+			"log" : null,
+			"postScript" : "Verdana-Italic",
+			"size" : 223268.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Verdana",
+			"filename" : "verdanaz.ttf",
+			"fullName" : "Verdana Bold Italic",
+			"log" : null,
+			"postScript" : "Verdana-BoldItalic",
+			"size" : 229800.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Tw Cen MT",
+			"filename" : "TCMI____.TTF",
+			"fullName" : "Tw Cen MT Italic",
+			"log" : null,
+			"postScript" : "TwCenMT-Italic",
+			"size" : 78236.0,
+			"style" : "Italic",
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Tw Cen MT",
+			"filename" : "TCBI____.TTF",
+			"fullName" : "Tw Cen MT Bold Italic",
+			"log" : null,
+			"postScript" : "TwCenMT-BoldItalic",
+			"size" : 73856.0,
+			"style" : "Bold Italic",
+			"subfamily" : "Bold Italic"
+		},
+		{
+			"family" : "Viner Hand ITC",
+			"filename" : "VINERITC.TTF",
+			"fullName" : "Viner Hand ITC",
+			"log" : null,
+			"postScript" : "VinerHandITC",
+			"size" : 104372.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Vivaldi",
+			"filename" : "VIVALDII.TTF",
+			"fullName" : "Vivaldi Italic",
+			"log" : null,
+			"postScript" : "Vivaldii",
+			"size" : 66696.0,
+			"subfamily" : "Italic"
+		},
+		{
+			"family" : "Tw Cen MT Condensed",
+			"filename" : "TCCM____.TTF",
+			"fullName" : "Tw Cen MT Condensed",
+			"log" : null,
+			"postScript" : "TwCenMT-Condensed",
+			"size" : 66804.0,
+			"style" : "Condensed",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Vladimir Script",
+			"filename" : "VLADIMIR.TTF",
+			"fullName" : "Vladimir Script",
+			"log" : null,
+			"postScript" : "VladimirScript",
+			"size" : 54308.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Webdings",
+			"filename" : "webdings.ttf",
+			"fullName" : "Webdings",
+			"log" : null,
+			"postScript" : "Webdings",
+			"size" : 120560.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Wingdings",
+			"filename" : "wingding.ttf",
+			"fullName" : "Wingdings",
+			"log" : null,
+			"postScript" : "Wingdings-Regular",
+			"size" : 82180.0,
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Wingdings 2",
+			"filename" : "WINGDNG2.TTF",
+			"fullName" : "Wingdings 2",
+			"log" : null,
+			"postScript" : "Wingdings2",
+			"size" : 65788.0,
+			"style" : "2",
+			"subfamily" : "Regular"
+		},
+		{
+			"family" : "Wingdings 3",
+			"filename" : "WINGDNG3.TTF",
+			"fullName" : "Wingdings 3",
+			"log" : null,
+			"postScript" : "Wingdings3",
+			"size" : 35328.0,
+			"style" : "3",
+			"subfamily" : "Regular"
+		}
+	]
+}
