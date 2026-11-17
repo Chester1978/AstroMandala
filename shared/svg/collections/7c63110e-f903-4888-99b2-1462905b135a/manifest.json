@@ -1,0 +1,20 @@
+{
+  "uuid": "7c63110e-f903-4888-99b2-1462905b135a",
+  "name": "OUTLINE 12 SIGNS",
+  "schemaId": "8a631138-2a04-4294-91b2-1455905bd65a",
+  "catId": "",
+  "slots": {
+    "100": "slot_100.svg",
+    "101": "slot_101.svg",
+    "102": "slot_102.svg",
+    "103": "slot_103.svg",
+    "104": "slot_104.svg",
+    "105": "slot_105.svg",
+    "106": "slot_106.svg",
+    "107": "slot_107.svg",
+    "108": "slot_108.svg",
+    "109": "slot_109.svg",
+    "110": "slot_110.svg",
+    "111": "slot_111.svg"
+  }
+}

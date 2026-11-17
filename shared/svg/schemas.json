@@ -1,0 +1,74 @@
+{
+  "schemas": [
+    {
+      "id": "6e631139-d304-4494-beb2-1435905bd95a",
+      "name": "PLANETS",
+      "includes": [],
+      "slots": {
+        "1": "SUN",
+        "2": "MOON",
+        "3": "MERCURY",
+        "4": "VENUS",
+        "5": "MARS",
+        "6": "JUPYTER",
+        "7": "SATURN",
+        "8": "URANUS",
+        "9": "NEPTUNE",
+        "10": "PLUTO",
+        "11": "CHIRON",
+        "12": "CERES",
+        "13": "PALLAS",
+        "14": "JUNO",
+        "15": "VESTA",
+        "16": "VULCAN"
+      }
+    },
+    {
+      "id": "8a631138-2a04-4294-91b2-1455905bd65a",
+      "name": "SIGNS",
+      "includes": [],
+      "slots": {
+        "100": "ARIES",
+        "101": "TAURUS",
+        "102": "GEMINI",
+        "103": "CANCER",
+        "104": "LEO",
+        "105": "VIRGO",
+        "106": "LIBRA",
+        "107": "SCORPIO",
+        "108": "SAGITTARIUS",
+        "109": "CAPRICORN",
+        "110": "AQUARIUS",
+        "111": "PISCES"
+      }
+    },
+    {
+      "id": "ed631138-4e04-4d94-a3b2-1402905bb25a",
+      "name": "ASTROLOGY",
+      "includes": [
+        "8a631138-2a04-4294-91b2-1455905bd65a",
+        "6e631139-d304-4494-beb2-1435905bd95a",
+        "a96311e0-1e04-4989-99b2-140e905bdd5a"
+      ],
+      "slots": {}
+    },
+    {
+      "id": "a96311e0-1e04-4989-99b2-140e905bdd5a",
+      "name": "ASPECTS",
+      "includes": [],
+      "slots": {
+        "120": "CONJUNCTION",
+        "121": "OPPOSITION",
+        "122": "TRINE",
+        "123": "SQUARE",
+        "124": "SEXTILE",
+        "125": "SEMISEXTILE",
+        "126": "QUINCUX",
+        "127": "SMISQUARE",
+        "128": "SESQUISQUARE",
+        "129": "QUINTILE",
+        "130": "BIQUINTILE"
+      }
+    }
+  ]
+}
